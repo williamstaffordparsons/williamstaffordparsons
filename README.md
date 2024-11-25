@@ -4,11 +4,7 @@ I create [minimalist video games](https://williamstaffordparsons.github.io/#game
 
 - [Contrivity](https://github.com/williamstaffordparsons/contrivity) &nbsp; An endless twin-stick shooting game with randomized weapons
 
-Furthermore, I have an uncommon affinity for denying impossibility, noticing patterns, approaching common problems unconventionally and applying simplicity.
-
-As a responsibility, I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
-
-The following results from my independent, unfunded research are capable of setting timeless software engineering standards in popular programming languages for energy-efficient, high-performance, practical computing when applied to systems such as databases, internet network infrastructure and web browser JavaScript engines.
+Furthermore, I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
 
 - [WSP-Hash-256](https://github.com/williamstaffordparsons/wsp-hash-256) &nbsp; An improvement to SHA-256 and a cryptanalysis test subject
 - [WSP-Hash-32](https://github.com/williamstaffordparsons/wsp-hash-32) &nbsp; The fastest portable 32-bit hashing algorithm with good quality 
