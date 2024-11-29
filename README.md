@@ -18,6 +18,4 @@ I conduct [open computer science research](https://williamstaffordparsons.github
 - [WSP-TRNG](https://github.com/williamstaffordparsons/wsp-trng) &nbsp; A TRNG with quantum-level entropy generated internally
 - [WSP-Vortex](https://github.com/williamstaffordparsons/wsp-vortex) &nbsp; A Mersenne Twister improvement faster than Xorshift32
 
-I'm currently working on video game creation and a new hash table with optimal insertion, lookup and resizing schemes.
-
-Furthermore, I'm working on contributing the aforementioned research results to popular open-source repositories for money.
+I'm currently working on both video game creation and a new hash table with optimal insertion, lookup and resizing schemes.
