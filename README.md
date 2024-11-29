@@ -4,7 +4,7 @@ I create [minimalist video games](https://williamstaffordparsons.github.io/#game
 
 - [Contrivity](https://github.com/williamstaffordparsons/contrivity) &nbsp; An endless twin-stick shooting game with randomized weapons
 
-Furthermore, I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
+I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
 
 - [WSP-Hash-256](https://github.com/williamstaffordparsons/wsp-hash-256) &nbsp; An improvement to SHA-256 and a cryptanalysis test subject
 - [WSP-Hash-32](https://github.com/williamstaffordparsons/wsp-hash-32) &nbsp; The fastest portable 32-bit hashing algorithm with good quality 
@@ -18,4 +18,4 @@ Furthermore, I conduct [open computer science research](https://williamstaffordp
 - [WSP-TRNG](https://github.com/williamstaffordparsons/wsp-trng) &nbsp; A TRNG with quantum-level entropy generated internally
 - [WSP-Vortex](https://github.com/williamstaffordparsons/wsp-vortex) &nbsp; A Mersenne Twister improvement faster than Xorshift32
 
-I'm currently working on a new hash table with optimal insertion, lookup and resizing schemes while contributing the aforementioned results across popular open-source repositories.
+I'm currently working on video game creation and a new hash table with optimal insertion, lookup and resizing schemes. Furthermore, I'm working on contributing the aforementioned research results to popular open-source repositories for money.
