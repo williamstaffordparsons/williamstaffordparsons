@@ -1,8 +1,8 @@
-I'm William Stafford Parsons, a long-time software engineer turned computer science researcher and minimalist game developer.
+I'm William Stafford Parsons, a long-time entrepreneur and software engineer turned computer science researcher and minimalist game developer.
 
 I create [minimalist video games](https://williamstaffordparsons.github.io/#games) that are fun to play for a few minutes at a time on modern desktop web browsers.
 
-- [Contrivity](https://github.com/williamstaffordparsons/contrivity) is an endless twin-stick shooting game with randomized weapons
+- [Contrivity](https://github.com/williamstaffordparsons/contrivity) is an endless twin-stick shooting game with randomized weapons.
 
 I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
 
