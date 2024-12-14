@@ -2,7 +2,7 @@ I'm William Stafford Parsons, a long-time entrepreneur and software engineer tur
 
 I create [tiny offline browser games](https://williamstaffordparsons.github.io/#games) that are fun to play and blow off some steam for a few minutes at a time.
 
-- [Contrivity](https://github.com/williamstaffordparsons/contrivity) is an endless twin-stick shooting game with randomized weapons.
+- [Contrivity](https://github.com/williamstaffordparsons/contrivity) is an endless twin-stick shooting game.
 
 I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
 
