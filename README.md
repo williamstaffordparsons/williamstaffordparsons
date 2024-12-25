@@ -1,10 +1,10 @@
-I'm William Stafford Parsons, a long-time entrepreneur and software engineer turned computer science researcher and minimalist game developer.
+I'm William Stafford Parsons, an entrepreneur and software engineer turned computer science researcher and minimalist game developer.
 
-I create [tiny offline browser games](https://williamstaffordparsons.github.io/#games) that are fun to play and blow off some steam for a few minutes at a time.
+I create [tiny offline browser games](https://williamstaffordparsons.github.io/#games) that are fun to play for a few minutes at a time.
 
 - [Contrivity](https://github.com/williamstaffordparsons/contrivity) is an endless twin-stick shooting game.
 
-I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) in the area of creating improved fundamental algorithms and data structures.
+I conduct [open computer science research](https://williamstaffordparsons.github.io/#research) resulting in improved fundamental algorithms and data structures.
 
 - [WSP-Hash-256](https://github.com/williamstaffordparsons/wsp-hash-256) is an improvement to SHA-256 and a cryptanalysis test subject.
 - [WSP-Hash-32](https://github.com/williamstaffordparsons/wsp-hash-32) is the fastest portable 32-bit hashing algorithm with good quality.
