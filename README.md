@@ -1,4 +1,4 @@
-I'm an entrepreneur and software engineer turned computer science researcher and minimalist game developer.
+I'm a computer science researcher, entrepreneur, game developer and web software engineer.
 
 I create [tiny offline browser games](https://williamstaffordparsons.github.io/#games) that are fun to play for a few minutes at a time.
 
